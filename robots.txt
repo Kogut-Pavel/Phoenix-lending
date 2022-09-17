@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /ex-index.html
+Disallow: /privacy.html
+Sitemap: https://daddysweb.ru/sitemap.xml
